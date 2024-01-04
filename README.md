@@ -1,2 +1,2 @@
 Git 
-Started learning day
+Started learning today 
